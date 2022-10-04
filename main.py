@@ -9,9 +9,15 @@
 #importing modules
 #work on creating and understanding functions
 
-from decision_making import decisions
-from comparison_operators import comparison
+# from decision_making import decisions
+# from comparison_operators import comparison
+from loops import loop
+#from enumerators import numeratos
+# from list_comprehension import com
 # from dictionaries_loops import dictionaries_loops
 
-decisions()
-comparison()
+#decisions()
+#comparison()
+loop ()
+#numeratos()
+# com()
